@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  [Solution](https://github.com/khodepanda/qr-code-component)
+-  [Live Site](https://qr-code-solu.netlify.app/)
 
 ## My process
 
@@ -61,9 +61,9 @@ I learnt about CSS variables and how to use them
 In the future I will learn more about CSS processor like SCSS processor
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Khodepanda](https://github.com/khodepanda)
+- Frontend Mentor - [@Khodepanda](https://www.frontendmentor.io/profile/Khodepanda)
+- Twitter - [@Khodepanda](https://www.twitter.com/Khodepanda)
 
 ## Acknowledgments
 
