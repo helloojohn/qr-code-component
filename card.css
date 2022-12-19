@@ -1,0 +1,175 @@
+/* Root variables */
+:root {
+  --white: hsl(0, 0%, 95%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(214, 4%, 37%);
+  --dark-blue: hsl(218, 44%, 22%);
+  --paragraph-f-f-s: 13px;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  appearance: none;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  background: var(--light-gray);
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 1rem;
+}
+
+h2 {
+  font-size: .9rem;
+}
+
+h3 {
+  font-size: .7rem;
+}
+
+h4{
+  font-size: .7rem;
+}
+
+p {
+  font-size: var(--paragraph-f-f-s);
+  font-weight: 400;
+  color: var(--grayish-blue);
+}
+
+button {
+  background: none;
+  background: none;
+  border-radius: 50px;
+  padding: 10px;
+  border: none;
+}
+
+img {
+  width: 310px;
+  height: 300px;
+  border-radius: 10px;
+}
+.card {
+  background: var(--white);
+  height: 70%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 350px;
+  margin: 40px auto 20px;
+  gap: 15px;
+}
+
+/* CARD HEADER */
+.top-btn {
+  position: absolute;
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  gap: 200px;
+  color: white;
+}
+
+.fav-btn {
+  background: rgb(243, 65, 65);
+  color: white;
+  text-align: center;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 9px;
+}
+
+
+/* CARD BODY */
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 9px;  
+
+}
+
+.location {
+  display: flex;
+  align-items: center;
+}
+
+.trait {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.age, .color, .weight {
+  border: 1px solid rgb(205, 205, 205);
+  border-radius: 10px;
+  width: 80px;
+  padding: 5px;
+  background: rgb(251, 242, 225);
+}
+
+.story {
+  line-height: 20px;
+}
+
+/* CONTACT */
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+}
+
+.text  {
+  font-size: 14px;
+}
+
+.contact img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.contact button {
+  background: rgb(86, 196, 246);
+  color: white;
+  font-weight: 500;
+  padding: 0 16px;
+  height: 32px;
+}
+
+/* Footer styling */
+.attribution { 
+  font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}

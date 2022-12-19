@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Genesys Learnable - Animal card solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Animal card task on learnable 2022](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Learnable internship is a 6 months program that help newbies learn and improve their coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -34,10 +34,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+- Responsive design
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -49,23 +48,20 @@ I learnt about CSS variables and how to use them
   --light-gray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
-
   --paragraph-f-s: 15px;
 }
-
 ```
-
-
+I also learnt about sematics and responsive design
 
 ### Continued development
 In the future I will learn more about CSS processor like SCSS processor
+
 ## Author
 
-- Website - [Khodepanda](https://github.com/khodepanda)
-- Frontend Mentor - [@Khodepanda](https://www.frontendmentor.io/profile/Khodepanda)
-- Twitter - [@Khodepanda](https://www.twitter.com/Khodepanda)
+- Okorie Amaechi John
+- Website - [Khodepanda](https://khodepanda.co)
 
 ## Acknowledgments
 
-Thanks  Mozilla Frontend course
+Thanks to [Mozilla](), [TheOdinProject](), [Learnable]()
 
